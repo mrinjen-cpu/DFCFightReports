@@ -1,0 +1,37 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "axiDesign": false,
+  "entries": [
+    {
+      "id": "20260925-200656-49h8",
+      "title": "Lumpia Humner, Pain Tràin",
+      "commanders": [
+        "Lumpia Humner",
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-09-26T03:06:56.000Z",
+      "dateEnd": "2026-09-26T03:46:01.576Z",
+      "dateLabel": "9/25/2026, 8:06:56 PM - 9/25/2026, 8:46:01 PM",
+      "url": "https://mrinjen-cpu.github.io/DFCFightReports/?report=20260925-200656-49h8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 34
+      }
+    }
+  ]
+}
