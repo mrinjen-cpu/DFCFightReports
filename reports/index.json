@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-160200-gd05",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-27T23:02:00.000Z",
+      "dateEnd": "2026-09-28T00:56:37.369Z",
+      "dateLabel": "9/27/2026, 4:02:00 PM - 9/27/2026, 5:56:37 PM",
+      "url": "https://mrinjen-cpu.github.io/DFCFightReports/?report=20260927-160200-gd05",
+      "summary": {
+        "borderlandsPct": 0.7272727272727273,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260925-200656-49h8",
       "title": "Lumpia Humner, Pain Tràin",
       "commanders": [
