@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261002-190826-ges5",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-03T02:08:26.000Z",
+      "dateEnd": "2026-10-03T02:48:13.854Z",
+      "dateLabel": "10/2/2026, 7:08:26 PM - 10/2/2026, 7:48:13 PM",
+      "url": "https://mrinjen-cpu.github.io/DFCFightReports/?report=20261002-190826-ges5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20261001-163246-co32",
       "title": "Pain Tràin",
       "commanders": [
