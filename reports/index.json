@@ -5,6 +5,45 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261009-191155-ky1n",
+      "title": "Pain Tràin, Virtuous Claps",
+      "commanders": [
+        "Pain Tràin",
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-10T02:11:55.000Z",
+      "dateEnd": "2026-10-16T01:10:06.298Z",
+      "dateLabel": "10/9/2026, 7:11:55 PM - 10/15/2026, 6:10:06 PM",
+      "url": "https://mrinjen-cpu.github.io/DFCFightReports/?report=20261009-191155-ky1n",
+      "summary": {
+        "borderlandsPct": 0.8636363636363636,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20261002-190826-ges5",
       "title": "Pain Tràin",
       "commanders": [
